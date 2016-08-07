@@ -1,0 +1,2 @@
+--For all the Network variables
+--SetNWBool("CanTouchAgain",true)
